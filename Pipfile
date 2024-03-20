@@ -9,6 +9,8 @@ asyncio = "*"
 feedparser = "*"
 pandas = "*"
 bs4 = "*"
+pyarrow = "*"
+fastparquet = "*"
 
 [dev-packages]
 
