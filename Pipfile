@@ -4,6 +4,11 @@ verify_ssl = true
 name = "pypi"
 
 [packages]
+aiohttp = "*"
+asyncio = "*"
+feedparser = "*"
+pandas = "*"
+bs4 = "*"
 
 [dev-packages]
 
