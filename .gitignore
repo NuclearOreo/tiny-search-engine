@@ -1,2 +1,4 @@
+# Python Stuff
 .venv
 *.parquet
+__pycache__
